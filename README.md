@@ -132,10 +132,5 @@ drwxrwxr-x  8 vagrant vagrant  4096 Jul 19 22:34 .git
 ## Bugs
 At this time, there are no known bugs.
 
-## Authors
-Alexa Orrico | [GitHub](https://github.com/alexaorrico) | [Twitter](https://twitter.com/alexa_orrico)
-
-John Cottrell | [GitHub](https://github.com/johncottrell) | [Twitter](https://twitter.com/johnpeterco)
-
 ## License
 simple_shell is open source and therefore free to download and use without permission.
